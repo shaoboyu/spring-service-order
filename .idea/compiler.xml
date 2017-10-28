@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="order-main_main" target="1.8" />
+      <module name="order-main_test" target="1.8" />
+      <module name="order-services-api_main" target="1.5" />
+      <module name="order-services-api_test" target="1.5" />
+      <module name="order-services_main" target="1.8" />
+      <module name="order-services_test" target="1.8" />
+      <module name="order-servlet_main" target="1.5" />
+      <module name="order-servlet_test" target="1.5" />
+      <module name="spring-service-order_main" target="1.5" />
+      <module name="spring-service-order_test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

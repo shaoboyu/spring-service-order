@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-main/order-main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-main/order-main.iml" group="order-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-main/order-main_main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-main/order-main_main.iml" group="order-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-main/order-main_test.iml" filepath="$PROJECT_DIR$/.idea/modules/order-main/order-main_test.iml" group="order-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-services/order-services.iml" filepath="$PROJECT_DIR$/.idea/modules/order-services/order-services.iml" group="order-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-services-api/order-services-api.iml" filepath="$PROJECT_DIR$/.idea/modules/order-services-api/order-services-api.iml" group="order-services-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-services-api/order-services-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-services-api/order-services-api_main.iml" group="order-services-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-services-api/order-services-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/order-services-api/order-services-api_test.iml" group="order-services-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-services/order-services_main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-services/order-services_main.iml" group="order-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-services/order-services_test.iml" filepath="$PROJECT_DIR$/.idea/modules/order-services/order-services_test.iml" group="order-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-servlet/order-servlet.iml" filepath="$PROJECT_DIR$/.idea/modules/order-servlet/order-servlet.iml" group="order-servlet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-servlet/order-servlet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-servlet/order-servlet_main.iml" group="order-servlet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-servlet/order-servlet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/order-servlet/order-servlet_test.iml" group="order-servlet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-service-order.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-service-order_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-service-order_main.iml" group="spring-service-order" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-service-order_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-service-order_test.iml" group="spring-service-order" />
+    </modules>
+  </component>
+</project>
